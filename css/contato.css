@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+body{
+    background-image: linear-gradient(to right, hsla(300, 83%, 50%, 0.658), #471955);
+    font-family: 'Poppins', sans-serif;
+}
+
+h4{
+    font-size: 18px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.329);
+    text-align: center;
+}
+
+form{
+    align-items: center;
+    text-align: center;
+}
+table{
+    border-radius: 50px;
+    background-color: aliceblue;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+#nome{
+    border-radius: 50px;
+    background-color: #4719554b;
+    align-items: center;
+    text-align: center;
+}
+
+#email{
+    border-radius: 50px;
+    background-color: #4719554b;
+    align-items: center;
+    text-align: center;
+}
+
+#assunto{
+    border-radius: 50px;
+    background-color: #4719554b;
+    align-items: center;
+    text-align: center;
+}
+
+#mensagem{
+    border-radius: 50px;
+    border-color: blue;
+}
+
+#botao{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    border-color: #471955;
+    font-size: 12px;
+}
+
+h5{
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+}
+
